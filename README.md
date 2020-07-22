@@ -1,4 +1,4 @@
-## Capstone Project
+## Capstone Project on web dev by pulkit suryavanshi
 
 Coursera UMICH Web Design for Everybody Capstone Final Project: Create a Personal Portfolio
 
@@ -19,5 +19,3 @@ Coursera UMICH Web Design for Everybody Capstone Final Project: Create a Persona
 ## Deployment
 Open index.html
 
-## Launch
-[Portfolio](https://ziggysauce.github.io/WDE-capstone/index.html)
