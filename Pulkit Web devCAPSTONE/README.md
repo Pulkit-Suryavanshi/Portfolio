@@ -20,4 +20,4 @@ Coursera UMICH Web Design for Everybody Capstone Final Project: Create a Persona
 Open index.html
 
 ## Launch
-[Portfolio](https://https://github.com/Pulkit-Suryavanshi/Portfolio/blob/master/Pulkit%20Web%20devCAPSTONE/index.html)
+[Portfolio](https://pulkit-suryavanshi.github.io/Portfolio/)
