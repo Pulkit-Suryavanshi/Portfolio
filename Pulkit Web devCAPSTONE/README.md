@@ -20,4 +20,4 @@ Coursera UMICH Web Design for Everybody Capstone Final Project: Create a Persona
 Open index.html
 
 ## Launch
-[Portfolio](https://ziggysauce.github.io/WDE-capstone/index.html)
+[Portfolio](https://)
