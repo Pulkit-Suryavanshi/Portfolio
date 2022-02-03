@@ -3,6 +3,7 @@
 /*Fonts*/
 @import url('https://fonts.googleapis.com/css?family=Molengo|Sigmar+One');
 
+
 p, h3, span, a {
   font-family: 'Molengo', sans-serif;
 }
@@ -38,7 +39,9 @@ body::-webkit-scrollbar-track {
 #container {
   height: 100%;
 }
-
+.projects-container{
+  background-color: #08E596;
+}
 /*Flex*/
 .flexrow{
   display: flex;
