@@ -432,6 +432,12 @@ footer i:hover {
 @media screen
   and (max-width:700px)
   and (orientation:portrait) {
+    #intro {
+      background-image: url("https://s19.postimg.org/hh8pxaczn/back2copy.jpg") !important;
+    }
+    h3{
+      color:lightgreen;
+    }
     html, body {
       overflow-x: hidden;
     }
@@ -464,9 +470,6 @@ footer i:hover {
     }
     #projectlist a {
       font-size: 1.5em;
-    }
-    #intro, #contactme {
-      background: #2F4763 !important;
     }
     .email {
       background: none;
