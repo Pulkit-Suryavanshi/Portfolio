@@ -561,7 +561,7 @@ footer i:hover {
         -moz-transition-delay: 500ms;
         transform: rotate(-45deg);
     }
-    #myCarousel,.carousel-inner,.projects{
+    #myCarousel,.carousel-inner,.projects,.project-title>img{
       width: 100% !important;
     }
 }
