@@ -1,0 +1,15 @@
+extra about career
+links to project
+Description x4 change and see(check it out button)
+extra info of project with correct names titles, etc etc changes
+UNDERSTAND ALL!(see typer,backgground sticky, 2nd background?, counter, proj img and open? css? responsiveness? all css js?)
+1. carosouel: link images: slide wrong correct it, also move above
+2. make changes according to current portfolio
+3. add images and gif
+4. add email part form!!!!!!!!!!!!!!!!!!!!
+5. make experience dynamic
+6. add more nicer text than current and add work text!
+6.5 remove unnecessary code and clean and aall references
+7. add to git.
+8. deploy, in git
+9. make this primary everywhere
